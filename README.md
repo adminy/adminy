@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=adminy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adminy&count_private=true&show_icons=true&theme=dracula)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adminy&compat=true&theme=dracula)
@@ -11,5 +12,4 @@
 - 🤔 I’m looking for help with Self management.
 - 💬 Ask me about JavaScript!
 - 📫 How to reach me: @adminy#8202, @god8luck, [Website](https://codeismagic.com)
-- 😄 Pronouns: Javascript && Node.js
 - ⚡ Fun fact: To add more features means to introduce even more bugs.
