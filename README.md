@@ -1,4 +1,8 @@
+<a href="https://codeismagic.com" target="_blank">
+
 ![adminy](background.png)
+
+</a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adminy&layout=compact&theme=blue-green)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adminy&count_private=true&hide_rank=true&layout=compact&show_icons=true&theme=blue-green)
