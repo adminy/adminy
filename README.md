@@ -4,13 +4,10 @@
 
 </a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adminy&layout=compact&theme=blue-green)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adminy&count_private=true&hide_rank=true&layout=compact&show_icons=true&theme=blue-green)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adminy&compat=true&layout=compact&theme=blue-green)
-
   <!-- [![Adminy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adminy&theme=blue-green)](https://github.com/adminy/github-readme-streak-stats) -->
 
 <!-- <details><summary>💼 ⚒️</summary> -->
+## 💼 ⚒️
 
 ![](https://img.shields.io/badge/React--informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Redux--informational?style=flat&logo=Redux&logoColor=white)
@@ -45,10 +42,20 @@
 ![](https://img.shields.io/badge/Bitbucket--informational?style=flat&logo=Bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/Jira--informational?style=flat&logo=Jira-Software&logoColor=white)
 
-<!-- </details> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adminy&count_private=true&hide_rank=true&layout=compact&show_icons=true&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adminy&layout=compact&theme=blue-green)
+
 
 ![](https://img.shields.io/badge/You%27re-7289DA)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+<details><summary>🕒</summary>
+
+![adminy's weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adminy&compat=true&layout=compact&custom_title=adminy's%20weekly%20stats&theme=blue-green)
+
+</details>
+
 
 📫
 ![Discord @adminy#8202](https://img.shields.io/badge/@adminy%238202-7289DA?logo=discord&logoColor=white)
