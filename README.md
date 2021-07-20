@@ -10,8 +10,7 @@
 
   <!-- [![Adminy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adminy&theme=blue-green)](https://github.com/adminy/github-readme-streak-stats) -->
 
-<details>
-<summary>💼</summary>
+<!-- <details><summary>💼 ⚒️</summary> -->
 
 ![](https://img.shields.io/badge/React--informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Redux--informational?style=flat&logo=Redux&logoColor=white)
@@ -28,6 +27,7 @@
 ![](https://img.shields.io/badge/Java--informational?style=flat&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/CSharp--informational?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/.NET--informational?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Shell--informational?style=flat&logo=shell&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot--informational?style=flat&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/MySQL--informational?style=flat&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/SQLite--informational?style=flat&logo=Sqlite&logoColor=white)
@@ -37,6 +37,7 @@
 ![](https://img.shields.io/badge/node.js--informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/NPM--informational?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Docker--informational?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Make--informational?style=flat&logo=cmake&logoColor=white)
 ![](https://img.shields.io/badge/NGINX--informational?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/GitHub--informational?style=flat&logo=GitHub&logoColor=white)
@@ -44,7 +45,7 @@
 ![](https://img.shields.io/badge/Bitbucket--informational?style=flat&logo=Bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/Jira--informational?style=flat&logo=Jira-Software&logoColor=white)
 
-</details>
+<!-- </details> -->
 
 ![](https://img.shields.io/badge/You%27re-7289DA)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
